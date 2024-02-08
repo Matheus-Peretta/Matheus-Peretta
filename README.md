@@ -8,6 +8,9 @@ https://liverpool-info-fans.netlify.app/clube
 
 Link análise de dados com SQL e Python no jupyter notebook:
 
-https://github.com/Matheus-Peretta/banco-de-dados-com-python-e-visualiza-o-de-dados
+- Análise de dados vagas empregos 2023
+- https://github.com/Matheus-Peretta/banco-de-dados-com-python-e-visualiza-o-de-dados
+
+- Web scraping Ações TSLA e GME
 
 
